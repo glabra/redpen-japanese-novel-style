@@ -14,9 +14,9 @@ jarファイルを `$REDPEN_HOME/lib` に置いて使ってください。
 
 句点は `FULL_STOP` に、閉じ括弧は `RIGHT_SQUARE_BRACKET` に対応します。
 
-## RedundantCommaStop
+## RedundantComma
 閉じ括弧の手前に読点が存在するか検査します。
-読点が存在するとき、 `RedundantCommaStop` はエラーを出力します。
+読点が存在するとき、 `RedundantComma` はエラーを出力します。
 
 読点は `COMMA` に、閉じ括弧は `RIGHT_SQUARE_BRACKET` に対応します。
 
